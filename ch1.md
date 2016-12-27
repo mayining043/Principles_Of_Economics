@@ -1,4 +1,4 @@
-# 经济学的十大原理
+# ch1 经济学的十大原理
 
 
 ## 经济学研究什么问题?
@@ -8,7 +8,7 @@
   Economics:  the study of how society manages its scarce resources
 
 ## 人们如何做出决策？
-### 原理一:  人们面临权衡取舍
+### 原理 1:  人们面临权衡取舍
 PRINCIPLE #1:  People Face Tradeoffs
 - 效率: 社会能从其稀缺资源中得到的最大利益
   Efficiency:  the property of society getting the most it can from its scarce resources
@@ -16,12 +16,12 @@ PRINCIPLE #1:  People Face Tradeoffs
   Equality:  the property of distributing economic prosperity uniformly among society’s members
   （控制污染会使收入下降）
 
-### 原理二:  某种东西的成本是为了得到它所放弃的东西
+### 原理 2:  某种东西的成本是为了得到它所放弃的东西
 PRINCIPLE #2:  The Cost of Something Is  What You Give Up to Get It
 - 机会成本：是为了得到这种东西所放弃的东西
   opportunity cost： whatever must be given up to obtain some item.
 
-### 原理三:  理性人考虑边际量
+### 原理 3:  理性人考虑边际量
 PRINCIPLE #3:  Rational People Think at the Margin
 - 理性人：系统而有目的地尽最大努力实现其目标的人
   Rational people：people who systematically and purposefully do the best they can to achieve their objectives
@@ -31,7 +31,7 @@ PRINCIPLE #3:  Rational People Think at the Margin
   （人们对于任何一种物品的支付意愿基于获得一单位的边界收益）
   （当且仅当边界收益大于边界成本时，理性人就会行动)
 
-### 原理四:  人们会对激励做出反应
+### 原理 4:  人们会对激励做出反应
 PRINCIPLE #4:  People Respond to Incentives
 - 激励：引起一个人做出某种行为的某种东西，诸如惩罚或奖励的预期
   Incentive: something that induces a person to act。
@@ -44,7 +44,7 @@ PRINCIPLE #5:  Trade Can Make Everyone Better Off
 （经济中每个家庭都在与其他竞争）
 
 ### 原理 6:  市场通常是组织经济活动的一种好方法
-PRINCIPLE #6:  Markets Are Usually A Good Way toOrganize Economic Activity
+PRINCIPLE #6:  Markets Are Usually A Good Way to Organize Economic Activity
 - 市场经济：许多企业和家庭在物品和劳务市场上相互交易，通过他们的分散决策来配置资源的经济
   market economy：an economy that allocates resources through the decentralized decisions of many households and firms as they interact in markets for goods and services.  
 - 亚当.斯密在《国富论》中的著名观察结果：
@@ -64,8 +64,8 @@ PRINCIPLE #7:  Governments Can Sometimes Improve Market Outcomes
 （政府干预经济的目标有两类：效率和平等）
 - 市场失灵：市场本身不能有效配置资源的情况 
   Market failure:  a situation in which a market left on its own fails to allocate resources efficiently
-  原因 
-- - 部性：生产或消费一个物品影响到旁观者的福利（比如：污染）
+  导致市场失灵的原因 
+- - 外部性：生产或消费一个物品影响到旁观者的福利（比如：污染）
     Externalities:  the uncompensated impact of one person’s actions on the well-being of a bystander.
 
 - - 市场势力：单个买者或卖者有能显著影响市场价格的能力（比如，垄断）
